@@ -14,26 +14,45 @@ DEAR APPLE, WE NEED A REPLACEMENT FOR CORE DATA (Aug 21, 2019) - https://medium.
 
 http://preserve.mactech.com/articles/mt_indices/S_Authors.html
 
-Issue 03.07    Lazy Man's Color - 
-Issue 03.08    Hierarchical Menus - 
-Issue 03.09    Life-Quickdraw and The Picker - 
-Issue 03.10    CDEV Control Panel Files Revisited - 
-Issue 04.01    Keyboard Wars! - 
-Issue 04.02    Screen Dump FKEY for Color Picts - 
-Issue 04.04    The Palette Manager and Color Puzzle - 
-Issue 04.05    Palette Animation - 
-Issue 05.05    Notification Manager - 
-Issue 05.10    Understanding Color Icons - 
-Issue 05.12    Capture Color Icons - 
-Issue 07.03    Animating PICS - 
-Issue 07.04    Non-Standard File Dialogs - 
-Issue 07.09    OOP in a non-OOP World - 
-Issue 08.05    Icon Family - 
-Issue 14.01    Contextual Menu Basics - 
-Issue 14.02    Contextual Menu Modules - 
-Issue 14.05    Java Development Environments - 
+Issue 03.07    Lazy Man's Color
+
+Issue 03.08    Hierarchical Menus
+
+Issue 03.09    Life-Quickdraw and The Picker
+
+Issue 03.10    CDEV Control Panel Files Revisited
+ 
+Issue 04.01    Keyboard Wars!
+ 
+Issue 04.02    Screen Dump FKEY for Color Picts
+ 
+Issue 04.04    The Palette Manager and Color Puzzle 
+ 
+Issue 04.05    Palette Animation
+
+Issue 05.05    Notification Manager
+
+Issue 05.10    Understanding Color Icons
+
+Issue 05.12    Capture Color Icons
+
+Issue 07.03    Animating PICS
+
+Issue 07.04    Non-Standard File Dialogs
+
+Issue 07.09    OOP in a non-OOP World
+
+Issue 08.05    Icon Family
+
+Issue 14.01    Contextual Menu Basics
+
+Issue 14.02    Contextual Menu Modules
+
+Issue 14.05    Java Development Environments
+
 Issue 14.06    BBEdit Plug-In Programming
-Issue 14.08    Protect Your Software with Hardware - 
+
+Issue 14.08    Protect Your Software with Hardware
 
 ## MagFest 2020 Videos  (Jan 2-5, 2020)
 
