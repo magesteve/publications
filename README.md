@@ -10,6 +10,10 @@ DEAR APPLE, WE NEED A SIRI INFORMATION INTENT (July 8th, 2018) - https://medium.
 
 DEAR APPLE, WE NEED A REPLACEMENT FOR CORE DATA (Aug 21, 2019) - https://medium.com/@magesteve/dear-apple-we-need-a-replacement-for-core-data-320df019487e
 
+## Presentations
+
+DSL Under Swift Steve Sheets Oct 2021
+
 ## MacTutor/MacTech Articles
 
 http://preserve.mactech.com/articles/mt_indices/S_Authors.html
