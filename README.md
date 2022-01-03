@@ -12,7 +12,11 @@ DEAR APPLE, WE NEED A REPLACEMENT FOR CORE DATA (Aug 21, 2019) - https://medium.
 
 ## Presentations
 
+2020 VR State of the Union Steve Sheets
+
 DSL Under Swift Steve Sheets Oct 2021
+
+Argument Parser Talk Steve Sheets Dec 2021
 
 ## MacTutor/MacTech Articles
 
